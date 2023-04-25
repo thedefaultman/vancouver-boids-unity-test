@@ -4,7 +4,6 @@
 # Rider ignored files
 /contentModel.xml
 /modules.xml
-/.idea.ngx-developer-test.iml
 /projectSettingsUpdater.xml
 # Editor-based HTTP Client requests
 /httpRequests/
